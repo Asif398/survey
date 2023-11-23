@@ -1,4 +1,4 @@
-# employee
+# instaClone 
 #Frontend
  1CreatePost.js 
   use your cloudinary api key
