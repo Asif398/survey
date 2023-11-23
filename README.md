@@ -1,13 +1,14 @@
 # instaClone 
 #Frontend
 
- 1 CreatePost.js 
- 2 use your cloudinary api key
-3 npm i
-4 npm start
+ # CreatePost.js 
+ ## use your cloudinary api key
+### npm i
+#### npm start
 
 #backend
-# install dotenv file
-1 npm i
-2 npm start
+
+## npm i
+### install dotenv file
+### npm start
 
