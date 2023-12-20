@@ -15,3 +15,5 @@
 ### install dotenv file
 ### npm start
 
+### Technology used Node.js,Epress.js,MongoDB and React.js
+
